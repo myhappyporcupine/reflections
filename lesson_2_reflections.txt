@@ -9,3 +9,7 @@ The staging area is an intermediate location for files. The value such a locatio
 How can you use the staging area to make sure you have one commit per logical change?
 
 After you've made all your changes, you stage one file and commit it, followed by the next etc.
+
+What are some situations when branches woud be helpful in keeping your history organized? How would branches help?
+
+One situation is when I want to add a new experimental feature that I'm not sure I want to integrate into the program. I would create a new branch with this experimental feature, and this way, if I ever regret the feature, I can easily go back to the master branch. Else, I can merge this branch with master.
