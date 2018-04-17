@@ -17,3 +17,7 @@ One situation is when I want to add a new experimental feature that I'm not sure
 How do the diagrams help you visualize the branch structure?
 
 Like any visualization, they somehow do.
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+
+The result is adding all of the changes done by the other branch to the current branch in one swoop. We represent it in this diagram because it makes sense.
