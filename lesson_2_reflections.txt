@@ -13,3 +13,7 @@ After you've made all your changes, you stage one file and commit it, followed b
 What are some situations when branches woud be helpful in keeping your history organized? How would branches help?
 
 One situation is when I want to add a new experimental feature that I'm not sure I want to integrate into the program. I would create a new branch with this experimental feature, and this way, if I ever regret the feature, I can easily go back to the master branch. Else, I can merge this branch with master.
+
+How do the diagrams help you visualize the branch structure?
+
+Like any visualization, they somehow do.
