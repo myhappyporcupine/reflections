@@ -21,3 +21,7 @@ Like any visualization, they somehow do.
 What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
 
 The result is adding all of the changes done by the other branch to the current branch in one swoop. We represent it in this diagram because it makes sense.
+
+What are the pros and cons of Git's automatic merging vs. always doing merges manually?
+
+The pro is that it's easier to let Git automatically merge the files. The con is that it's prone to errors.
